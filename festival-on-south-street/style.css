@@ -1,8 +1,8 @@
-.painting {
-  width: 25vw;
-
-}
-
 .painting img {
   width: 100%;
+}
+
+.main__title {
+  display: flex;
+  justify-content: center;
 }
